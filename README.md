@@ -1,2 +1,2 @@
-# pythonProject1
- exercícios resolvidos de Python
+# Exercicios de Python
+ Atividades Práticas e Desafios do Curso em Vídeo
